@@ -15,6 +15,7 @@
 	flex-direction:row;
 	padding:1%;
 	padding-top:5%;
+	margin-bottom:0%;		
 	
 	
 }
@@ -69,8 +70,6 @@
 #details-1{
 	width:100%;
 	padding:20px;
-	
-		
 }
 #details-review{
 	background-color:green;
@@ -152,4 +151,41 @@
 	flex-wrap:wrap;
 	justify-content:space-evenly;
 	padding-top:20px;
+}
+#detail1-underbox{
+	display:flex;
+	flex-wrap:wrap;
+    padding-top:20px;
+}
+#detail-u1>a img{
+	width:60px;
+	
+}
+#detail-u2{
+	padding:5px;
+}
+#detail-u2>button a{
+	text-decoration-line:none;
+	color:rgb(0,0,0,0.4);
+}
+#detail-u2>button{
+	background-color:white;
+	border:none;
+	padding-left:20px;
+	font-size:15px;
+}
+#price-strike{
+	color:rgb(0,0,1,0.2);
+	font-size:14px;	
+}
+#offer-green{
+	color:green;
+	font-size:18px;
+}
+#details-line{
+	border:1px solid rgb(0,0,1,0.3);
+	width:93%;
+}
+#detail-line1{
+	padding-top:10px;
 }
