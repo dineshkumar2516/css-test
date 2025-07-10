@@ -15,7 +15,7 @@
 	flex-direction:row;
 	padding:1%;
 	padding-top:5%;
-	margin-bottom:0%;		
+			
 	
 	
 }
@@ -39,7 +39,7 @@
 	border-radius:10px;
 }
 #img-col2>img{
-	padding-left:10px;
+	padding-left:5px;
 }
 #details-container-1{
 	border:1px solid rgba(139, 139, 163,0.6);
